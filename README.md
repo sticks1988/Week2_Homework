@@ -7,3 +7,7 @@ added buttons and card stocks for CSS styling views
 implemented borders, padding, coloring, transitions, positioning, fonts, media, navigation, scroll bar smoothing.
 added contact boxing and contact info
 added hyperlinks to scroll to correct UI correspondences 
+
+
+https://github.com/sticks1988/Week2_Homework.git
+https://sticks1988.github.io/Week2_Homework/
